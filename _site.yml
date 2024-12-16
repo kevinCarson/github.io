@@ -1,0 +1,9 @@
+name: "kevins-website"
+output_dir: "."
+navbar:
+  title: "Kevins Website"
+  left:
+    - text: "About Me"
+      href: about.html
+    - text: "Home"
+      href: index.html
