@@ -1,0 +1,36 @@
+---
+title: "Research and Conference Presentations"
+---
+
+
+::: {style="text-align: right; background: none; border: none;"}
+```         
+Peer-Reviewed Publications
+```
+:::
+
+Carson, Kevin. “Exploring the Social Dynamics of Undocumented Border Crossings: A Study on Coyote Use and Prior Coyote Experience.” *Under Review*
+
+Carson, Kevin. “The Diffusion of Organized Criminal Violence in Mexico: A Network Perspective.” *In-Progress*
+
+::: {style="text-align: right;"}
+```         
+Conference Presentations
+```
+:::
+
+Carson, Kevin (with Diego F. Leal). 2024. “A Framework for Efficient Computation of Sufficient Statistics in Relational Event Models (REM) Applied to Large Two-Mode Networks”, **American Sociological Association 119th Annual Meeting**, Montreal, Quebec, Canada.
+
+Carson, Kevin (with Diego F. Leal). 2024. “Exploring the Social Dynamics of Undocumented Border Crossings: A Study on Coyote Use and Prior Coyote Experience”, **American Sociological Association 119th Annual Meeting**, Montreal, Quebec, Canada.
+
+Carson, Kevin (with Diego F. Leal). 2023. “Political Use of Social Media and Offline Protest Participation: Consistent Estimates from Three Different Population-based Surveys in the U.S”, **American Sociological Association 118th Annual Meeting**, Philadelphia, USA.
+
+Carson, Kevin. 2021. “Political Usage of Social Media: A Quantitative Study on Protest Participation and Mobilization”, **Mid-South Sociological Association Conference**, virtual meeting.
+
+::: {style="text-align: right;"}
+```         
+R Packages
+```
+:::
+
+Carson, Kevin (with Diego F. Leal). *redr: Relational and Event Dynamics in R.* In-Progress

@@ -58,7 +58,7 @@ if (window.hljs) {
 
 
 
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="custom.css" type="text/css" />
 
 
 
@@ -244,16 +244,25 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="about.html">About Me</a>
-</li>
-<li>
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="Carson_CV.pdf">CV</a>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="blog.html">Blog</a>
+</li>
+<li>
+  <a href="https://www.dropbox.com/scl/fi/4hg4mihb4yyk4f6ssx3yr/Carson_CV.pdf?rlkey=m01ffm2t4qohaacs02ynwsbkf&amp;dl=0">CV</a>
 </li>
 <li>
   <a href="https://sociology.arizona.edu/">Department</a>
+</li>
+<li>
+  <a href="https://github.com/kevinCarson">GitHub</a>
+</li>
+<li>
+  <a href="https://orcid.org/0009-0001-5762-2586">ORCID</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -272,13 +281,25 @@ $(document).ready(function () {
 </div>
 
 
-<p><img src="Headshot_prof_110624.jpg" /></p>
+<div style="display: flex; align-items: flex-start;">
+<!-- Left Section: Image and Details -->
+<div style="flex: 0 0 450px; text-align: center; margin-right: 40px;">
+<p><img src="Headshot_prof_110624.jpg"
+style="width: 100%; max-width: 450px; border-radius: 5px; margin-bottom: 15px;" /></p>
+<div style="text-align: left;">
 <ul>
-<li><strong>Name:</strong> Kevin Carson</li>
-<li><strong>Occupation:</strong> PhD Student at the University of
-Arizona</li>
-<li><strong>Department:</strong> School of Sociology</li>
+<li><strong>Name:</strong> Kevin Carson<br />
+</li>
+<li><strong>Occupation:</strong> Social Scientist/PhD Student<br />
+</li>
+<li><strong>Department:</strong> School of Sociology<br />
+</li>
+<li><strong>University:</strong> University of Arizona</li>
 </ul>
+</div>
+</div>
+<!-- Right Section: Descriptive Text -->
+<div style="flex: 1;">
 <p>I am a PhD student at the University of Arizona’s School of
 Sociology, where I previously earned a Master of Arts in Sociology. I
 also hold a Bachelor of Science in Sociology from the University of
@@ -296,7 +317,9 @@ barriers to knowledge dissemination. To this end, I make all code for
 replicating analyses from my peer-reviewed articles publicly available.
 I also share teaching materials on statistical models, aiming to
 facilitate access to scientific resources. Any errors in my work are my
-own</p>
+own.</p>
+</div>
+</div>
 
 
 

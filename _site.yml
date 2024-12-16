@@ -3,15 +3,21 @@ output_dir: "."
 navbar:
   title: "Kevin Carson"
   left:
-    - text: "About Me"
-      href: about.html
     - text: "Home"
       href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Blog"
+      href: blog.html
     - text: "CV"
-      href: Carson_CV.pdf
+      href: https://www.dropbox.com/scl/fi/4hg4mihb4yyk4f6ssx3yr/Carson_CV.pdf?rlkey=m01ffm2t4qohaacs02ynwsbkf&dl=0
     - text: "Department"
       href: https://sociology.arizona.edu/
+    - text: "GitHub"
+      href: https://github.com/kevinCarson 
+    - text: "ORCID"
+      href:  https://orcid.org/0009-0001-5762-2586
 output: 
   html_document:
     theme: darkly
-    css: style.css
+    css: custom.css  
