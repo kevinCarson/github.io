@@ -2,4 +2,14 @@
 title: "About Me"
 ---
 
-Hello World!!!!!!!
+![](Headshot_prof_110624.jpg)
+
+-   **Name:** Kevin Carson
+-   **Occupation:** PhD Student at the University of Arizona
+-   **Department:** School of Sociology
+
+I am a PhD student at the University of Arizona’s School of Sociology, where I previously earned a Master of Arts in Sociology. I also hold a Bachelor of Science in Sociology from the University of South Carolina.
+
+My research broadly explores the dynamics within covert and illicit social worlds. Specifically, I focus on the social dynamics of undocumented migration at the US-Mexico border and the conflict dynamics among organized criminal groups in Mexico. To analyze these complex social processes, I utilize sociological and criminological theories and employ statistical network models—such as the relational event model—as well as standard regression techniques, including logistic regression.
+
+I am a strong advocate for open science and am committed to reducing barriers to knowledge dissemination. To this end, I make all code for replicating analyses from my peer-reviewed articles publicly available. I also share teaching materials on statistical models, aiming to facilitate access to scientific resources. Any errors in my work are my own

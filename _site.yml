@@ -1,9 +1,13 @@
 name: "kevins-website"
 output_dir: "."
 navbar:
-  title: "Kevins Website"
+  title: "Kevin Carson"
   left:
     - text: "About Me"
       href: about.html
     - text: "Home"
       href: index.html
+output: 
+  html_document:
+    theme: darkly
+    css: style.css
